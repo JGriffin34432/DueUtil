@@ -1,0 +1,18 @@
+{
+   "botToken":"[DISCORD BOT TOKEN]",
+   "owner":"[OWNER DISCORD ID]",
+   "shardCount":1,
+   "shardNames":[
+      "Clone DueUtil: shard 1"
+   ],
+   "logChannel": "[SERVER ID]/[CHANNEL ID]",
+   "errorChannel": "[SERVER ID]/[CHANNEL ID]",
+   "feedbackChannel": "[SERVER ID]/[CHANNEL ID]",
+   "bugChannel": "[SERVER ID]/[CHANNEL ID]",
+   "announcementsChannel":"[SERVER ID]/[CHANNEL ID]",
+   "carbonKey":"[https://www.carbonitex.net key you won't have]",
+   "discordBotsOrgKey":"https://discordbots.org/ key you also won't have",
+   "discordBotsKey": "https://bots.discord.pw/ key you also also won't have",
+   "discoinKey":"http://discoin.sidetrip.xyz/ you will never get",
+   "sentryAuth": "[SENTRY AUTH]"
+}
